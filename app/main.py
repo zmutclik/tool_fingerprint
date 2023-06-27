@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 
 app = FastAPI(title="TOOL-FINGERPRINT",
-              description="TOOL Biasa, buat Sesuatu yg Biasa, Agar Biasa Biasa AJA",
+              description="TOOL Biasa, untuk mengakali kebusukuannyaa...!!!",
               version="1.0.0",)
 
 
