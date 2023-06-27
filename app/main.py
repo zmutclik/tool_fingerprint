@@ -3,6 +3,10 @@ from fastapi.middleware.cors import CORSMiddleware
 import time
 from config import app_pass,app_user,appFP_path,appFP_title
 
+from pywinauto.application import Application
+import pywinauto.mouse as mouse
+import pywinauto.keyboard as keyboard
+
 
 appFP = {}
 
